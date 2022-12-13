@@ -1,0 +1,5 @@
+flask
+pytube
+pywhatkit
+requests
+moviepy
